@@ -38,7 +38,7 @@
 * 023-Mac 安装配置 MySQL
 * 024-MySQL 集群建议
 * 025-VPS 利用 ShadowSocks 搭建 VPN
-* 026-Python 自动化打包业务和认证平台
+* 026-Python 自动化部署
 * 027-MongoDB 部署文档
 * 028-Hackintosh 安装文档
 * 029-Maven 部署文档
@@ -147,9 +147,9 @@
 
 > 在一台位于美国的 VPS 服务器上，使用 Shadow Socks 搭建 VPN，供科学上网使用。
 
-## 026-Python 自动化打包业务和认证平台 ##
+## 026-Python 自动化部署 ##
 
-> Python 自动化打包业务和认证平台，本机只需执行脚本，远程即可自动部署。脚本采用 Python 编写，远程调用使用 Fabric 实现。该项目已经托管在 GitHub，地址：https://github.com/dbarobin/python-auto-deploy
+> Python 自动化部署，本机只需执行脚本，远程即可自动部署。脚本采用 Python 编写，远程调用使用 Fabric 实现。该项目已经托管在 GitHub，地址：https://github.com/dbarobin/python-auto-deploy
 
 ## 027-MongoDB 部署文档 ##
 
