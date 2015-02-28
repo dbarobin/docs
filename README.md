@@ -49,6 +49,7 @@
 * 030-MediaWiki 部署文档
 * 031-PHP 项目 Rewrite
 * 032-Zabbix 部署文档
+* 033-Mac 支持 NTFS 读写
 
 # 文档摘要 #
 
@@ -179,6 +180,10 @@
 ## 032-Zabbix 部署文档 ##
 
 > 在一台监控服务器上搭建 Zabbix Server，监控其他服务器。
+
+## 033-Mac 支持 NTFS 读写 ##
+
+> 使用第三方软件支持 Mac 读写 NTFS 格式的移动硬盘。
 
 # 作者信息 #
 
